@@ -5,11 +5,11 @@
 
 > [Airship](https://www.airship.com/) (formerly Urban Airship) is an American company that provides marketing and branding services. Airship allows companies to generate custom messages to consumers via push notifications, SMS messaging, and similar, and provides customer analytics services.
 
-> Cloned Airship.com website during the construct week at [Masai School](https://masaischool.com/). Completed the project in six days with a team of five members and implemented the maximum user centric functionality.
 
-> Group name - dirty-surprise-9313.
 
-# 👉 [Click here](https://cool-cascaron-6523af.netlify.app/) to go through our work 
+
+
+# 👉 [Click here](https://cool-cascaron-6523af.netlify.app/) to go through work 
 
 # Features
 
@@ -31,7 +31,6 @@
 # Lessons Learned
 
 - Gain excessive knowledge on application of HTML, CSS & JS.
-- Got to know how to collabrate with team members.
 - Enjoyed the process of learning and creating the product.
 
 # Overview of our work
@@ -71,25 +70,3 @@
 *User can apply go through case studies of our existing Customers*
 </br>
 <a href='https://postimg.cc/75VtR2hs' target='_blank'><img src='https://i.postimg.cc/LsKdnkpp/Customers-1.png' border='0' alt='Customers-1'/></a>
-
-# Contributors
-
-#### Mayuri Samanta (Team Lead)
-> Github: [mayurisamanta](https://github.com/mayurisamanta)
-Worked on Login, Signup, Setup page
-
-#### Rekha Yadav
-> Github: [Rekha0980](https://github.com/Rekha0980)
-Worked on Homepage, Footer page
-
-#### Rahul Deshmane
->Github:[codexrahuld](https://github.com/codexrahuld)
-Worked on Customer, About MAX page
-
-#### Rakshika Kadu
->Github:[Rakshikakadu](https://github.com/Rakshikakadu)
-Worked on Project page
-
-#### Pallavi Arvind Bobale
->Github:[Pallu27899](https://github.com/Pallu27899)
-Worked on Navbar, Service page 
